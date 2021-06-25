@@ -8,7 +8,7 @@ API feita na NLW06 da Rocketseat
   Nela é possível criar usuários, tags e elogios para outros usuários, os usuários autenticados por JWT podem enviar elogios para outros usuários.
 </p>
 <br><br>
-<img src="https://i.ytimg.com/vi/zt7lyjxOJog/maxresdefault.jpg"/>
+<img src="https://raw.githubusercontent.com/gustavo-sorati/nlw-4-nodejs-npm-calculator/main/public/github/nlw4.jpg"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/school/rocketseat/"><img  src="https://img.shields.io/badge/-Rocketseat-783BF9?&style=for-the-badge&logoColor=fff&logo=LinkedIn&logoWidth=25"/></a>
