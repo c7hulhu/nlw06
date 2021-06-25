@@ -23,9 +23,9 @@ API feita na NLW06 da Rocketseat
 </p>
 <br>
 <p align="center">
-  <img  src="https://img.shields.io/badge/-Yarn-2C8EBB?&style=for-the-badge&logoColor=fff&logo=yarn&logoWidth=25"/>
-  <img  src="https://img.shields.io/badge/-TypeScript-3178C6?&style=for-the-badge&logoColor=fff&logo=TypeScript&logoWidth=25"/>
-  <img  src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logoColor=fff&logo=Node.js&logoWidth=25"/>
-  <img  src="https://img.shields.io/badge/-Typeorm-F37626?&style=for-the-badge&logoColor=fff&logo=Databricks&logoWidth=25"/>
-  <img  src="https://img.shields.io/badge/-JWT-F37626?&style=for-the-badge&logoColor=fff&logo=jsonwebtokens&logoWidth=25"/>
+  <a href="https://yarnpkg.com/"><img  src="https://img.shields.io/badge/-Yarn-2C8EBB?&style=for-the-badge&logoColor=fff&logo=yarn&logoWidth=25"/></a>
+  <a href="https://www.typescriptlang.org/"><img  src="https://img.shields.io/badge/-TypeScript-3178C6?&style=for-the-badge&logoColor=fff&logo=TypeScript&logoWidth=25"/></a>
+  <a href="https://nodejs.org/pt-br/"><img  src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logoColor=fff&logo=Node.js&logoWidth=25"/></a>
+  <a href="https://typeorm.io/"><img  src="https://img.shields.io/badge/-Typeorm-F37626?&style=for-the-badge&logoColor=fff&logo=Databricks&logoWidth=25"/></a>
+  <a href="https://jwt.io/"><img  src="https://img.shields.io/badge/-JWT-F37626?&style=for-the-badge&logoColor=fff&logo=jsonwebtokens&logoWidth=25"/></a>
 </p>
