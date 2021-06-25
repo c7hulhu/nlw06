@@ -27,4 +27,5 @@ API feita na NLW06 da Rocketseat
   <img  src="https://img.shields.io/badge/-TypeScript-3178C6?&style=for-the-badge&logoColor=fff&logo=TypeScript&logoWidth=25"/>
   <img  src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logoColor=fff&logo=Node.js&logoWidth=25"/>
   <img  src="https://img.shields.io/badge/-Typeorm-F37626?&style=for-the-badge&logoColor=fff&logo=Databricks&logoWidth=25"/>
+  <img  src="https://img.shields.io/badge/-JWT-F37626?&style=for-the-badge&logoColor=fff&logo=jsonwebtokens&logoWidth=25"/>
 </p>
